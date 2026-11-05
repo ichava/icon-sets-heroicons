@@ -1,7 +1,7 @@
 {
     "name": "ichava/icon-sets-heroicons",
     "description": "1,288 Heroicons (v2.2.0) in four variants, outline, solid, mini and micro, for Laravel 13 on the Ichava icon ecosystem. Artwork MIT, by Tailwind Labs.",
-    "type": "library",
+    "type": "ichava-icon-set",
     "keywords": [
         "icons",
         "svg",
@@ -24,9 +24,7 @@
     ],
     "require": {
         "php": "^8.4.1 || ^8.5",
-        "illuminate/support": "^13.0",
-        "ichava/core": "^0.1",
-        "laranail/package-tools": "^0.1.0"
+        "ichava/core": "^0.1"
     },
     "repositories": [
         {
